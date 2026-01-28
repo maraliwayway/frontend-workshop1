@@ -1,1 +1,1 @@
-# frontend-workshop1
+# skeleton-movie-finder
